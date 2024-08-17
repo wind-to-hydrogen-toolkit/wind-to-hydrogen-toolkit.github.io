@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Wind-to-Hydrogen Toolkit
 ---
 
 ## H-Wind: Hydrogen from offshore wind
