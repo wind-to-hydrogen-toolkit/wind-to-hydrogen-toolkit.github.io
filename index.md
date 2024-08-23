@@ -3,11 +3,26 @@ layout: default
 title: Wind-to-Hydrogen Toolkit
 ---
 
+# Wind-to-Hydrogen Toolkit
+
+[Wind-to-Hydrogen Toolkit](https://github.com/wind-to-hydrogen-toolkit) is a collection of computer programmes developed by researchers in the H-Wind and HyFloat1 projects at the [MaREI Centre](https://www.marei.ie/) in [University College Cork (UCC)](https://www.ucc.ie/en/).
+
+We expect that these tools will be of benefit to project developers, students, and other researchers to work on green hydrogen systems.
+As work is peer reviewed, we will release these tools for public use as a durable output of the H-Wind and HyFloat1 projects.
+
+## Research team
+
+- [Paul Leahy](https://www.linkedin.com/in/paul-leahy-4a233472/)
+- [Dam Thanh Pham](https://www.linkedin.com/in/thanh-dam-pham-925a6ba5/)
+- [Quang Vu Dinh](https://www.linkedin.com/in/quang-vu-dinh-94097018b/)
+- Huong Le Thi
+- [Nithiya Streethran](https://www.linkedin.com/in/nmstreethran/)
+
 ## H-Wind: Hydrogen from offshore wind
 
 ![H-Wind project logos](https://raw.githubusercontent.com/wind-to-hydrogen-toolkit/.github/main/images/logos-hwind.png)
 
-[H-Wind](https://www.marei.ie/project/h-wind/) is a [MaREI Centre](https://www.marei.ie/) industry-led collaborative research project on the production of green hydrogen from offshore wind farms.
+[H-Wind](https://www.marei.ie/project/h-wind/) is a MaREI Centre industry-led collaborative research project on the production of green hydrogen from offshore wind farms.
 Thanks to Ireland having one of the world's best offshore wind resources, there is an extensive opportunity for green hydrogen to be generated through electrolysis from offshore wind farms in Ireland.
 
 This three-year, multi-disciplinary project focusses on:
