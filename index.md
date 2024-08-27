@@ -46,3 +46,17 @@ Several existing floating offshore wind foundations will be numerically assessed
 Converting offshore wind energy into hydrogen and storing it in the foundations of a floating offshore wind turbine is a novel approach that could reduce the levelised cost of energy for floating wind.
 
 The HyFloat1 project was supported by a research grant from the [Sustainable Energy Authority of Ireland (SEAI)](https://www.seai.ie).
+
+## Publications
+
+1. **Levelised cost of transmission of H<sub>2</sub> and NH<sub>3</sub> paper** [[Code]](https://github.com/wind-to-hydrogen-toolkit/LCOT-Hydrogen-and-Ammonia)
+
+    Dinh, Q. V., Todesco Pereira, P. H., Dinh, V. N., Nagle, A. J., and Leahy, P. G. (2024). ‘Levelised cost of transmission comparison for green hydrogen and ammonia in new-build offshore energy infrastructure: Pipelines, tankers, and HVDC’, *International Journal of Hydrogen Energy*, 62, pp. 684–698. <https://doi.org/10.1016/j.ijhydene.2024.03.066>.
+
+1. **Levelised cost of hydrogen from onshore electrolysers conference paper**
+
+    Dinh, Q. V., Dinh, V. N., and Leahy, P. (2023). ‘A method to map the levelised cost of hydrogen from offshore wind farms coupled to onshore electrolysers via HVDC’, *IOP Conference Series: Earth and Environmental Science*, 1281, p. 012005. <https://doi.org/10.1088/1755-1315/1281/1/012005>.
+
+1. **Levelised cost of hydrogen mapping paper** [[Code]](https://github.com/wind-to-hydrogen-toolkit/LCOH-Mapping)
+
+    Dinh, Q. V., Dinh, V. N., Mosadeghi, H., Todesco Pereira, P. H., and Leahy, P. G. (2023). ‘A geospatial method for estimating the levelised cost of hydrogen production from offshore wind’, *International Journal of Hydrogen Energy*, 48(40), pp. 15000–15013. <https://doi.org/10.1016/j.ijhydene.2023.01.016>.
