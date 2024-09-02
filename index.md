@@ -5,7 +5,7 @@ title: Wind-to-Hydrogen Toolkit
 
 # Wind-to-Hydrogen Toolkit
 
-[Wind-to-Hydrogen Toolkit](https://github.com/wind-to-hydrogen-toolkit) is a collection of computer programmes developed by researchers in the H-Wind and HyFloat1 projects at the [MaREI Centre](https://www.marei.ie/), [University College Cork (UCC)](https://www.ucc.ie/en/).
+[Wind-to-Hydrogen Toolkit](https://github.com/wind-to-hydrogen-toolkit) is a collection of tools developed by researchers in the H-Wind and HyFloat1 projects at the [MaREI Centre](https://www.marei.ie/), [University College Cork (UCC)](https://www.ucc.ie/en/) to study the integration of offshore wind with the production, storage, and utilisation of hydrogen.
 
 We expect that these tools will be of benefit to project developers, students, and other researchers to work on green hydrogen systems.
 As work is peer reviewed, we will release these tools for public use as a durable output of the H-Wind and HyFloat1 projects.
@@ -49,16 +49,16 @@ The HyFloat1 project was supported by a research grant from the [Sustainable Ene
 
 ![HyFloat1 sponsor](https://raw.githubusercontent.com/wind-to-hydrogen-toolkit/.github/main/images/logos-hyfloat1-sponsor.png)
 
-## Publications
+## Publications & Preprints
 
-1. **Levelised cost of transmission of H<sub>2</sub> and NH<sub>3</sub> paper** [[Code]](https://github.com/wind-to-hydrogen-toolkit/LCOT-Hydrogen-and-Ammonia)
+1. Dinh, Q. V., Todesco Pereira, P. H., Dinh, V. N., Nagle, A. J., and Leahy, P. G. (2024). ‘Levelised cost of transmission comparison for green hydrogen and ammonia in new-build offshore energy infrastructure: Pipelines, tankers, and HVDC’, *International Journal of Hydrogen Energy*, 62, pp. 684–698. <https://doi.org/10.1016/j.ijhydene.2024.03.066>. [[Code](https://github.com/wind-to-hydrogen-toolkit/LCOT-Hydrogen-and-Ammonia)]
 
-    Dinh, Q. V., Todesco Pereira, P. H., Dinh, V. N., Nagle, A. J., and Leahy, P. G. (2024). ‘Levelised cost of transmission comparison for green hydrogen and ammonia in new-build offshore energy infrastructure: Pipelines, tankers, and HVDC’, *International Journal of Hydrogen Energy*, 62, pp. 684–698. <https://doi.org/10.1016/j.ijhydene.2024.03.066>.
+1. Dinh, Q. V., Dinh, V. N., and Leahy, P. G. (2023). ‘A Diffusion Model Approach to Forecast Multi-Sector Demand Growth for Green Hydrogen Generated from Offshore Wind Power’. <https://doi.org/10.2139/ssrn.4562388>. [Preprint]
 
-1. **Levelised cost of hydrogen from onshore electrolysers conference paper**
+1. Dinh, Q. V., Dinh, V. N., and Leahy, P. (2023). ‘A method to map the levelised cost of hydrogen from offshore wind farms coupled to onshore electrolysers via HVDC’, *IOP Conference Series: Earth and Environmental Science*, 1281, p. 012005. <https://doi.org/10.1088/1755-1315/1281/1/012005>.
 
-    Dinh, Q. V., Dinh, V. N., and Leahy, P. (2023). ‘A method to map the levelised cost of hydrogen from offshore wind farms coupled to onshore electrolysers via HVDC’, *IOP Conference Series: Earth and Environmental Science*, 1281, p. 012005. <https://doi.org/10.1088/1755-1315/1281/1/012005>.
+1. Dinh, Q. V., Dinh, V. N., Mosadeghi, H., Todesco Pereira, P. H., and Leahy, P. G. (2023). ‘A geospatial method for estimating the levelised cost of hydrogen production from offshore wind’, *International Journal of Hydrogen Energy*, 48(40), pp. 15000–15013. <https://doi.org/10.1016/j.ijhydene.2023.01.016>. [[Code](https://github.com/wind-to-hydrogen-toolkit/LCOH-Mapping)]
 
-1. **Levelised cost of hydrogen mapping paper** [[Code]](https://github.com/wind-to-hydrogen-toolkit/LCOH-Mapping)
+---
 
-    Dinh, Q. V., Dinh, V. N., Mosadeghi, H., Todesco Pereira, P. H., and Leahy, P. G. (2023). ‘A geospatial method for estimating the levelised cost of hydrogen production from offshore wind’, *International Journal of Hydrogen Energy*, 48(40), pp. 15000–15013. <https://doi.org/10.1016/j.ijhydene.2023.01.016>.
+*Content on this site is licensed under a [Creative Commons Attribution 4.0 International (CC-BY-4.0) License](https://creativecommons.org/licenses/by/4.0/).*
