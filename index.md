@@ -3,7 +3,7 @@ layout: default
 title: Wind-to-Hydrogen Toolkit
 ---
 
-# Wind-to-Hydrogen Toolkit
+# Wind-to-Hydrogen Toolkit <!-- omit in toc -->
 
 [Wind-to-Hydrogen Toolkit](https://github.com/wind-to-hydrogen-toolkit) is a collection of tools developed by researchers in the H-Wind and HyFloat1 projects at the [MaREI Centre](https://www.marei.ie/), [University College Cork (UCC)](https://www.ucc.ie/en/) to study the integration of offshore wind with the production, storage, and utilisation of hydrogen.
 
@@ -11,6 +11,18 @@ We expect that these tools will be of benefit to project developers, students, a
 As work is peer reviewed, we will release these tools for public use as a durable output of the H-Wind and HyFloat1 projects.
 
 ![H-Wind & HyFloat1 projects](https://raw.githubusercontent.com/wind-to-hydrogen-toolkit/.github/main/images/logos-hwind-hyfloat1-ucc.png)
+
+## Table of Contents <!-- omit in toc -->
+
+- [Team](#team)
+- [H-Wind: Hydrogen from offshore wind](#h-wind-hydrogen-from-offshore-wind)
+- [HyFloat1: Concept development of floating offshore wind foundations coupled with hydrogen storage](#hyfloat1-concept-development-of-floating-offshore-wind-foundations-coupled-with-hydrogen-storage)
+- [Research Outputs](#research-outputs)
+  - [Journal Articles](#journal-articles)
+  - [Conference Papers](#conference-papers)
+  - [Preprints](#preprints)
+  - [Theses](#theses)
+  - [Code](#code)
 
 ## Team
 
