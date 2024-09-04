@@ -26,11 +26,11 @@ As work is peer reviewed, we will release these tools for public use as a durabl
 
 ## Team
 
-- [Paul Leahy](https://www.linkedin.com/in/paul-leahy-4a233472/)
-- [Dam Thanh Pham](https://www.linkedin.com/in/thanh-dam-pham-925a6ba5/)
-- [Quang Vu Dinh](https://www.linkedin.com/in/quang-vu-dinh-94097018b/)
-- Huong Le Thi
-- [Nithiya Streethran](https://www.linkedin.com/in/nmstreethran/)
+- Principal Investigators: [**Paul Leahy**](https://www.linkedin.com/in/paul-leahy-4a233472/), Nguyen Dinh
+- Researchers: [**Dam Thanh Pham**](https://www.linkedin.com/in/thanh-dam-pham-925a6ba5/), [**Quang Vu Dinh**](https://www.linkedin.com/in/quang-vu-dinh-94097018b/), **Huong Le Thi**, [**Nithiya Streethran**](https://www.linkedin.com/in/nmstreethran/), Pedro Pereira, Hadi Mosadeghi
+- Interns / Visiting Students: Tommaso Brondolin, Alessandro Albarello, Lucia Magro
+
+\* *Bold denotes current team members*
 
 ## H-Wind: Hydrogen from offshore wind
 
