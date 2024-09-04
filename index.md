@@ -49,15 +49,35 @@ The HyFloat1 project was supported by a research grant from the [Sustainable Ene
 
 ![HyFloat1 sponsor](https://raw.githubusercontent.com/wind-to-hydrogen-toolkit/.github/main/images/logos-hyfloat1-sponsor.png)
 
-## Publications & Preprints
+## Research Outputs
 
-1. Dinh, Q. V., Todesco Pereira, P. H., Dinh, V. N., Nagle, A. J., and Leahy, P. G. (2024). ‘Levelised cost of transmission comparison for green hydrogen and ammonia in new-build offshore energy infrastructure: Pipelines, tankers, and HVDC’, *International Journal of Hydrogen Energy*, 62, pp. 684–698. <https://doi.org/10.1016/j.ijhydene.2024.03.066>. [[Code](https://github.com/wind-to-hydrogen-toolkit/LCOT-Hydrogen-and-Ammonia)]
+### Journal Articles
 
-1. Dinh, Q. V., Dinh, V. N., and Leahy, P. G. (2023). ‘A Diffusion Model Approach to Forecast Multi-Sector Demand Growth for Green Hydrogen Generated from Offshore Wind Power’. <https://doi.org/10.2139/ssrn.4562388>. [Preprint]
+1. Dinh, Q. V., Todesco Pereira, P. H., Dinh, V. N., Nagle, A. J., and Leahy, P. G. (2024). ‘Levelised cost of transmission comparison for green hydrogen and ammonia in new-build offshore energy infrastructure: Pipelines, tankers, and HVDC’, *International Journal of Hydrogen Energy*, 62, pp. 684–698. <https://doi.org/10.1016/j.ijhydene.2024.03.066>.
+
+1. Dinh, Q. V., Dinh, V. N., Mosadeghi, H., Todesco Pereira, P. H., and Leahy, P. G. (2023). ‘A geospatial method for estimating the levelised cost of hydrogen production from offshore wind’, *International Journal of Hydrogen Energy*, 48(40), pp. 15000–15013. <https://doi.org/10.1016/j.ijhydene.2023.01.016>.
+
+### Conference Papers
+
+1. Pham, T. D., Trinh, L. C., Dinh, V. N., and Leahy, P. (2024). ‘Conceptual Design of a Hybrid Floating Offshore Wind Turbine Integrated With Hydrogen Production and Storage System’, in. *ASME 2024 43rd International Conference on Ocean, Offshore and Arctic Engineering*, Singapore: American Society of Mechanical Engineers Digital Collection. <https://doi.org/10.1115/OMAE2024-121580>.
 
 1. Dinh, Q. V., Dinh, V. N., and Leahy, P. (2023). ‘A method to map the levelised cost of hydrogen from offshore wind farms coupled to onshore electrolysers via HVDC’, *IOP Conference Series: Earth and Environmental Science*, 1281, p. 012005. <https://doi.org/10.1088/1755-1315/1281/1/012005>.
 
-1. Dinh, Q. V., Dinh, V. N., Mosadeghi, H., Todesco Pereira, P. H., and Leahy, P. G. (2023). ‘A geospatial method for estimating the levelised cost of hydrogen production from offshore wind’, *International Journal of Hydrogen Energy*, 48(40), pp. 15000–15013. <https://doi.org/10.1016/j.ijhydene.2023.01.016>. [[Code](https://github.com/wind-to-hydrogen-toolkit/LCOH-Mapping)]
+### Preprints
+
+1. Dinh, Q. V., Dinh, V. N., and Leahy, P. G. (2023). ‘A Diffusion Model Approach to Forecast Multi-Sector Demand Growth for Green Hydrogen Generated from Offshore Wind Power’. <https://doi.org/10.2139/ssrn.4562388>.
+
+### Theses
+
+1. Albarello, A. (2023). Optimisation of Battery and Electrolyzer size for a Wind-to-Hydrogen Plant. Master’s Thesis. University of Padua. <https://hdl.handle.net/20.500.12608/47279>.
+
+1. Magro, L. (2022). A techno-economic analysis of a hybrid offshore wind-hydrogen plant. Master’s Thesis. University of Padua. <https://hdl.handle.net/20.500.12608/36748>.
+
+### Code
+
+1. ‘Levelised cost of transmission comparison for green hydrogen and ammonia in new-build offshore energy infrastructure: Pipelines, tankers, and HVDC’. <https://github.com/wind-to-hydrogen-toolkit/LCOT-Hydrogen-and-Ammonia>.
+
+1. ‘A geospatial method for estimating the levelised cost of hydrogen production from offshore wind’. <https://github.com/wind-to-hydrogen-toolkit/LCOH-Mapping>.
 
 ---
 
