@@ -3,7 +3,7 @@ layout: default
 title: Wind-to-Hydrogen Toolkit
 ---
 
-# Wind-to-Hydrogen Toolkit <!-- omit in toc -->
+# Wind-to-Hydrogen Toolkit
 
 [Wind-to-Hydrogen Toolkit](https://github.com/wind-to-hydrogen-toolkit) is a collection of tools developed by researchers in the H-Wind and HyFloat1 projects at the [MaREI Centre](https://www.marei.ie/), [University College Cork (UCC)](https://www.ucc.ie/en/) to study the integration of offshore wind with the production, storage, and utilisation of hydrogen.
 
@@ -12,27 +12,19 @@ As work is peer reviewed, we will release these tools for public use as a durabl
 
 ![H-Wind & HyFloat1 projects](https://raw.githubusercontent.com/wind-to-hydrogen-toolkit/.github/main/images/logos-hwind-hyfloat1-ucc.png)
 
-## Table of Contents <!-- omit in toc -->
-
-- [Team](#team)
-- [H-Wind: Hydrogen from offshore wind](#h-wind-hydrogen-from-offshore-wind)
-- [HyFloat1: Concept development of floating offshore wind foundations coupled with hydrogen storage](#hyfloat1-concept-development-of-floating-offshore-wind-foundations-coupled-with-hydrogen-storage)
-- [Research Outputs](#research-outputs)
-  - [Journal Articles](#journal-articles)
-  - [Conference Papers](#conference-papers)
-  - [Preprints](#preprints)
-  - [Theses](#theses)
-  - [Code](#code)
-
 ## Team
 
-- Principal Investigators: [**Paul Leahy**](https://www.linkedin.com/in/paul-leahy-4a233472/), Nguyen Dinh
-- Researchers: [**Dam Thanh Pham**](https://www.linkedin.com/in/thanh-dam-pham-925a6ba5/), [**Quang Vu Dinh**](https://www.linkedin.com/in/quang-vu-dinh-94097018b/), **Huong Le Thi**, [**Nithiya Streethran**](https://www.linkedin.com/in/nmstreethran/), Pedro Pereira, Hadi Mosadeghi
-- Interns / Visiting Students: Tommaso Brondolin, Alessandro Albarello, Lucia Magro
+- Principal Investigators: [**Paul Leahy**](https://www.linkedin.com/in/paul-leahy-4a233472/), [Nguyen Dinh](https://www.linkedin.com/in/ndinheu/)
+- Researchers: [**Dam Thanh Pham**](https://www.linkedin.com/in/thanh-dam-pham-925a6ba5/), [**Quang Vu Dinh**](https://www.linkedin.com/in/quang-vu-dinh-94097018b/), **Huong Le Thi**, [**Nithiya Streethran**](https://www.linkedin.com/in/nmstreethran/), [Pedro Pereira](https://www.linkedin.com/in/pedrohtpereira/), [Hadi Mosadeghi](https://www.linkedin.com/in/hadi-mosadeghi/)
+- Interns / Visiting Students: [Tommaso Brondolin](https://www.linkedin.com/in/tommaso-brondolin-545386247/), [Alessandro Albarello](https://www.linkedin.com/in/alessandro-albarello-4519b6226/), Lucia Magro
 
 \* *Bold denotes current team members*
 
-## H-Wind: Hydrogen from offshore wind
+## Projects
+
+### H-Wind
+
+**H-Wind: Hydrogen from offshore wind**
 
 [H-Wind](https://www.marei.ie/project/h-wind/) is a MaREI Centre industry-led collaborative research project on the production of green hydrogen from offshore wind farms.
 Thanks to Ireland having one of the world's best offshore wind resources, there is an extensive opportunity for green hydrogen to be generated through electrolysis from offshore wind farms in Ireland.
@@ -50,7 +42,9 @@ The H-Wind project was supported by a research grant from [Science Foundation Ir
 
 ![H-Wind sponsors](https://raw.githubusercontent.com/wind-to-hydrogen-toolkit/.github/main/images/logos-hwind-sponsors.png)
 
-## HyFloat1: Concept development of floating offshore wind foundations coupled with hydrogen storage
+### HyFloat1
+
+**HyFloat1: Concept development of floating offshore wind foundations coupled with hydrogen storage**
 
 Hydrogen produced from floating offshore wind energy will require innovative storage systems.
 The [HyFloat1](https://www.seai.ie/data-and-insights/seai-research/research-database/research-projects/details/hyfloat1:-concept-development-of-floating-offshore-wind-foundations-coupled-with-hydrogen-storage) project aims at developing new concepts for floating offshore wind foundations coupled with hydrogen storage.
@@ -63,33 +57,39 @@ The HyFloat1 project was supported by a research grant from the [Sustainable Ene
 
 ## Research Outputs
 
-### Journal Articles
+### H-Wind
+
+#### Journal Articles
 
 1. Dinh, Q. V., Todesco Pereira, P. H., Dinh, V. N., Nagle, A. J., and Leahy, P. G. (2024). ‘Levelised cost of transmission comparison for green hydrogen and ammonia in new-build offshore energy infrastructure: Pipelines, tankers, and HVDC’, *International Journal of Hydrogen Energy*, 62, pp. 684–698. <https://doi.org/10.1016/j.ijhydene.2024.03.066>.
 
 1. Dinh, Q. V., Dinh, V. N., Mosadeghi, H., Todesco Pereira, P. H., and Leahy, P. G. (2023). ‘A geospatial method for estimating the levelised cost of hydrogen production from offshore wind’, *International Journal of Hydrogen Energy*, 48(40), pp. 15000–15013. <https://doi.org/10.1016/j.ijhydene.2023.01.016>.
 
-### Conference Papers
-
-1. Pham, T. D., Trinh, L. C., Dinh, V. N., and Leahy, P. (2024). ‘Conceptual Design of a Hybrid Floating Offshore Wind Turbine Integrated With Hydrogen Production and Storage System’, in. *ASME 2024 43rd International Conference on Ocean, Offshore and Arctic Engineering*, Singapore: American Society of Mechanical Engineers Digital Collection. <https://doi.org/10.1115/OMAE2024-121580>.
+#### Conference Papers
 
 1. Dinh, Q. V., Dinh, V. N., and Leahy, P. (2023). ‘A method to map the levelised cost of hydrogen from offshore wind farms coupled to onshore electrolysers via HVDC’, *IOP Conference Series: Earth and Environmental Science*, 1281, p. 012005. <https://doi.org/10.1088/1755-1315/1281/1/012005>.
 
-### Preprints
+#### Preprints
 
 1. Dinh, Q. V., Dinh, V. N., and Leahy, P. G. (2023). ‘A Diffusion Model Approach to Forecast Multi-Sector Demand Growth for Green Hydrogen Generated from Offshore Wind Power’. <https://doi.org/10.2139/ssrn.4562388>.
 
-### Theses
+#### Theses
 
 1. Albarello, A. (2023). Optimisation of Battery and Electrolyzer size for a Wind-to-Hydrogen Plant. Master’s Thesis. University of Padua. <https://hdl.handle.net/20.500.12608/47279>.
 
 1. Magro, L. (2022). A techno-economic analysis of a hybrid offshore wind-hydrogen plant. Master’s Thesis. University of Padua. <https://hdl.handle.net/20.500.12608/36748>.
 
-### Code
+#### Code
 
 1. ‘Levelised cost of transmission comparison for green hydrogen and ammonia in new-build offshore energy infrastructure: Pipelines, tankers, and HVDC’. <https://github.com/wind-to-hydrogen-toolkit/LCOT-Hydrogen-and-Ammonia>.
 
 1. ‘A geospatial method for estimating the levelised cost of hydrogen production from offshore wind’. <https://github.com/wind-to-hydrogen-toolkit/LCOH-Mapping>.
+
+### HyFloat1
+
+#### Conference Papers
+
+1. Pham, T. D., Trinh, L. C., Dinh, V. N., and Leahy, P. (2024). ‘Conceptual Design of a Hybrid Floating Offshore Wind Turbine Integrated With Hydrogen Production and Storage System’, in. *ASME 2024 43rd International Conference on Ocean, Offshore and Arctic Engineering*, Singapore: American Society of Mechanical Engineers Digital Collection. <https://doi.org/10.1115/OMAE2024-121580>.
 
 ---
 
