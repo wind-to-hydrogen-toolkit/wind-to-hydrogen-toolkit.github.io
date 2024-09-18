@@ -67,6 +67,8 @@ The HyFloat1 project was supported by a research grant from the [Sustainable Ene
 
 #### Preprints
 
+1. Streethran, N., Byrne, K., White, J., O’Neill, N., and Leahy, P. (2024). ‘Optimising production and long-term bulk storage of hydrogen from offshore wind in subsurface salt caverns’. Available at: <https://doi.org/10.2139/ssrn.4960296>.
+
 1. Dinh, Q. V., Dinh, V. N., and Leahy, P. G. (2023). ‘A Diffusion Model Approach to Forecast Multi-Sector Demand Growth for Green Hydrogen Generated from Offshore Wind Power’. Available at: <https://doi.org/10.2139/ssrn.4562388>.
 
 #### Theses
@@ -77,9 +79,11 @@ The HyFloat1 project was supported by a research grant from the [Sustainable Ene
 
 #### Code
 
-1. ‘Levelised cost of transmission comparison for green hydrogen and ammonia in new-build offshore energy infrastructure: Pipelines, tankers, and HVDC’. <https://github.com/wind-to-hydrogen-toolkit/LCOT-Hydrogen-and-Ammonia>.
+1. Optimising production and long-term bulk storage of hydrogen from offshore wind in subsurface salt caverns. <https://github.com/wind-to-hydrogen-toolkit/hydrogen-salt-storage>.
 
-1. ‘A geospatial method for estimating the levelised cost of hydrogen production from offshore wind’. <https://github.com/wind-to-hydrogen-toolkit/LCOH-Mapping>.
+1. Levelised cost of transmission comparison for green hydrogen and ammonia in new-build offshore energy infrastructure: Pipelines, tankers, and HVDC. <https://github.com/wind-to-hydrogen-toolkit/LCOT-Hydrogen-and-Ammonia>.
+
+1. A geospatial method for estimating the levelised cost of hydrogen production from offshore wind. <https://github.com/wind-to-hydrogen-toolkit/LCOH-Mapping>.
 
 #### Talks
 
