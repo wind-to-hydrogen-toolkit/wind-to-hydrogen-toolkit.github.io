@@ -10,7 +10,7 @@ title: Wind-to-Hydrogen Toolkit
 We expect that these tools will be of benefit to project developers, students, and other researchers to work on green hydrogen systems.
 As work is peer reviewed, we will release these tools for public use as a durable output of the H-Wind, HyFloat1, and HyFloatComp projects.
 
-![H-Wind, HyFloat1, and HyFloatComp project logos](https://raw.githubusercontent.com/wind-to-hydrogen-toolkit/.github/main/images/logos-hwind-hyfloat1-ucc-hyfloatcomp.png "H-Wind, HyFloat1, and HyFloatComp project logos")
+![Logos for H-Wind, HyFloat1, and HyFloatComp projects and MaREI / UCC](https://raw.githubusercontent.com/wind-to-hydrogen-toolkit/.github/refs/heads/main/images/logos-projects-ucc.png "Logos for H-Wind, HyFloat1, and HyFloatComp projects and MaREI / UCC")
 
 ## Team
 
