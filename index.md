@@ -9,6 +9,7 @@ title: Wind-to-Hydrogen Toolkit
 
 We expect that these tools will be of benefit to project developers, students, and other researchers to work on green hydrogen systems.
 As work is peer reviewed, we will release these tools for public use as a durable output of the H-Wind, HyFloat1, and HyFloatComp projects.
+See [Published Tools](#published-tools) below for the list of open source tools we have released.
 
 ![Logos for H-Wind, HyFloat1, and HyFloatComp projects and MaREI / UCC](https://raw.githubusercontent.com/wind-to-hydrogen-toolkit/.github/refs/heads/main/images/logos-projects-ucc.png "Logos for H-Wind, HyFloat1, and HyFloatComp projects and MaREI / UCC")
 
@@ -19,6 +20,16 @@ As work is peer reviewed, we will release these tools for public use as a durabl
 - Interns / Visiting Students: **Leone Sostero**, [Tommaso Brondolin](https://www.linkedin.com/in/tommaso-brondolin-545386247/), [Alessandro Albarello](https://www.linkedin.com/in/alessandro-albarello-4519b6226/), [Lucia Magro](https://www.linkedin.com/in/lucia-magro)
 
 \* *Bold denotes current team members*
+
+## Published Tools
+
+1. Thermodynamic and economic assessment of an electrolyser - hydrogen turbine system. <https://github.com/TBrondolin/Thermodynamic-and-economic-assessment-of-an-electrolyser---hydrogen-turbine-system>.
+
+1. Optimising production and long-term bulk storage of hydrogen from offshore wind in subsurface salt caverns. <https://github.com/wind-to-hydrogen-toolkit/hydrogen-salt-storage>.
+
+1. Levelised cost of transmission comparison for green hydrogen and ammonia in new-build offshore energy infrastructure: Pipelines, tankers, and HVDC. <https://github.com/wind-to-hydrogen-toolkit/LCOT-Hydrogen-and-Ammonia>.
+
+1. A geospatial method for estimating the levelised cost of hydrogen production from offshore wind. <https://github.com/wind-to-hydrogen-toolkit/LCOH-Mapping>.
 
 ## Projects
 
@@ -84,14 +95,6 @@ The HyFloatComp project is supported by a research grant from the [Sustainable E
 1. Albarello, A. (2023). *Optimisation of Battery and Electrolyzer size for a Wind-to-Hydrogen Plant*. Master’s Thesis. University of Padua. Available at: <https://hdl.handle.net/20.500.12608/47279>.
 
 1. Magro, L. (2022). *A techno-economic analysis of a hybrid offshore wind-hydrogen plant*. Master’s Thesis. University of Padua. Available at: <https://hdl.handle.net/20.500.12608/36748>.
-
-#### Code
-
-1. Optimising production and long-term bulk storage of hydrogen from offshore wind in subsurface salt caverns. <https://github.com/wind-to-hydrogen-toolkit/hydrogen-salt-storage>.
-
-1. Levelised cost of transmission comparison for green hydrogen and ammonia in new-build offshore energy infrastructure: Pipelines, tankers, and HVDC. <https://github.com/wind-to-hydrogen-toolkit/LCOT-Hydrogen-and-Ammonia>.
-
-1. A geospatial method for estimating the levelised cost of hydrogen production from offshore wind. <https://github.com/wind-to-hydrogen-toolkit/LCOH-Mapping>.
 
 #### Talks
 
