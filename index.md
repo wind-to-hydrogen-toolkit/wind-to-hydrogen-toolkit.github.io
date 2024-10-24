@@ -5,21 +5,32 @@ title: Wind-to-Hydrogen Toolkit
 
 # Wind-to-Hydrogen Toolkit
 
-[Wind-to-Hydrogen Toolkit](https://github.com/wind-to-hydrogen-toolkit) is a collection of tools developed by researchers in the H-Wind, HyFloat1, and HyFloatComp projects at the [MaREI Centre](https://www.marei.ie/), [University College Cork (UCC)](https://www.ucc.ie/en/) to study the integration of offshore wind with the production, storage, and utilisation of hydrogen.
+[**Wind-to-Hydrogen Toolkit**](https://github.com/wind-to-hydrogen-toolkit) is a collection of tools developed by researchers in the H-Wind, HyFloat1, and HyFloatComp projects at the [MaREI Centre](https://www.marei.ie/), [University College Cork (UCC)](https://www.ucc.ie/en/) to study the integration of offshore wind with the production, storage, and utilisation of hydrogen.
 
 We expect that these tools will be of benefit to project developers, students, and other researchers to work on green hydrogen systems.
 As work is peer reviewed, we will release these tools for public use as a durable output of the H-Wind, HyFloat1, and HyFloatComp projects.
 See [Published Tools](#published-tools) below for the list of open source tools we have released.
 
-![Logos for H-Wind, HyFloat1, and HyFloatComp projects and MaREI / UCC](https://raw.githubusercontent.com/wind-to-hydrogen-toolkit/.github/refs/heads/main/images/logos-projects-ucc.png "Logos for H-Wind, HyFloat1, and HyFloatComp projects and MaREI / UCC")
+![H-Wind, HyFloat1, HyFloatComp, and MaREI / UCC logos](https://raw.githubusercontent.com/wind-to-hydrogen-toolkit/.github/refs/heads/main/images/logos-projects-ucc.png "H-Wind, HyFloat1, HyFloatComp, and MaREI / UCC logos")
 
 ## Team
 
-- Principal Investigators: [**Paul Leahy**](https://www.linkedin.com/in/paul-leahy-4a233472/), [Nguyen Dinh](https://www.linkedin.com/in/ndinheu/)
-- Researchers: [**Dam Thanh Pham**](https://www.linkedin.com/in/thanh-dam-pham-925a6ba5/), **Javier Sanz-Corretge**, [**Quang Vu Dinh**](https://www.linkedin.com/in/quang-vu-dinh-94097018b/), **Huong Le Thi**, [**Nithiya Streethran**](https://www.linkedin.com/in/nmstreethran/), [Pedro Pereira](https://www.linkedin.com/in/pedrohtpereira/), [Hadi Mosadeghi](https://www.linkedin.com/in/hadi-mosadeghi/)
-- Interns / Visiting Students: **Leone Sostero**, [Tommaso Brondolin](https://www.linkedin.com/in/tommaso-brondolin-545386247/), [Alessandro Albarello](https://www.linkedin.com/in/alessandro-albarello-4519b6226/), [Lucia Magro](https://www.linkedin.com/in/lucia-magro)
+- [**Paul Leahy**](https://www.linkedin.com/in/paul-leahy-4a233472/) - Principal Investigator - H-Wind, HyFloat1, and HyFloatComp
+- [**Dam Thanh Pham**](https://www.linkedin.com/in/thanh-dam-pham-925a6ba5/) - Researcher - HyFloat1
+- **Javier Sanz-Corretge** - Researcher - HyFloatComp
+- [**Quang Vu Dinh**](https://www.linkedin.com/in/quang-vu-dinh-94097018b/) - Researcher - H-Wind
+- **Huong Le Thi** - PhD Student - H-Wind
+- **Leone Sostero** - Visiting MSc Student - H-Wind
 
-\* *Bold denotes current team members*
+### Alumni
+
+- [**Nguyen Dinh**](https://www.linkedin.com/in/ndinheu/) - Principal Investigator - H-Wind
+- [**Pedro Pereira**](https://www.linkedin.com/in/pedrohtpereira/) - Researcher - H-Wind
+- [**Nithiya Streethran**](https://www.linkedin.com/in/nmstreethran/) - Researcher - H-Wind
+- [**Hadi Mosadeghi**](https://www.linkedin.com/in/hadi-mosadeghi/) - Researcher - H-Wind
+- [**Tommaso Brondolin**](https://www.linkedin.com/in/tommaso-brondolin-545386247/) - Visiting MSc Student - H-Wind
+- [**Alessandro Albarello**](https://www.linkedin.com/in/alessandro-albarello-4519b6226/) - Visiting MSc Student - H-Wind
+- [**Lucia Magro**](https://www.linkedin.com/in/lucia-magro) - Visiting MSc Student - H-Wind
 
 ## Published Tools
 
@@ -50,6 +61,8 @@ This three-year, multi-disciplinary project focusses on:
 All of these factors will contribute to significantly replacing Ireland's reliability on fossil fuels which will effectively reduce greenhouse gas emissions, along with securing the national energy supply and enabling the exploration of new energy export markets.
 
 The H-Wind project is supported by a research grant from [Science Foundation Ireland (SFI)](https://www.sfi.ie/) under Grant No. 12/RC/2302 – P2 and by the industry consortium members: [DP Energy](https://dpenergy.com/), [Equinor](https://www.equinor.com/), [ESB](https://esb.ie/), and [Gas Networks Ireland](https://www.gasnetworks.ie/).
+
+Follow the H-Wind project on [LinkedIn](https://www.linkedin.com/company/h-wind/).
 
 ### HyFloat1
 

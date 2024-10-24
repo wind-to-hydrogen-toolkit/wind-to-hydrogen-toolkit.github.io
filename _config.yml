@@ -3,15 +3,8 @@ description: >-
   Tools developed as part of the H-Wind, HyFloat1, and HyFloatComp projects at
   the MaREI Centre, University College Cork
 show_downloads: false
-# google_analytics:
 theme: jekyll-theme-cayman
 lang: en-GB
-github:
-  repository_name: Wind-to-Hydrogen Toolkit
-  repository_url: https://github.com/wind-to-hydrogen-toolkit
-  is_project_page: true
-  owner_url: https://github.com/nmstreethran
-  owner_name: Nithiya Streethran
 exclude:
   - README.md
   - Gemfile
