@@ -105,6 +105,8 @@ The HyFloatComp project is supported by a research grant from the [Sustainable E
 
 #### Theses
 
+1. Brondolin, T. (2024). *Power to hydrogen to power: thermodynamic and economic assessment of an Electrolyser - Hydrogen turbine system*. Master's Thesis. University of Padua. Available at: <https://hdl.handle.net/20.500.12608/75524>.
+
 1. Albarello, A. (2023). *Optimisation of Battery and Electrolyzer size for a Wind-to-Hydrogen Plant*. Master’s Thesis. University of Padua. Available at: <https://hdl.handle.net/20.500.12608/47279>.
 
 1. Magro, L. (2022). *A techno-economic analysis of a hybrid offshore wind-hydrogen plant*. Master’s Thesis. University of Padua. Available at: <https://hdl.handle.net/20.500.12608/36748>.
