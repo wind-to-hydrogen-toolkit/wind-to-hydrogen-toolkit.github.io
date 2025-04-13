@@ -89,11 +89,15 @@ The HyFloatComp project is supported by a research grant from the [Sustainable E
 
 #### Journal Articles
 
+1. Dinh, Q. V., Dinh, V. N., and Leahy, P. G. (2025). ‘A differential evolution model for optimising the size and cost of electrolysers coupled with offshore wind farms’, *International Journal of Hydrogen Energy*, 124, pp. 318-330, Available at: <https://doi.org/10.1016/j.ijhydene.2025.03.440>.
+
 1. Dinh, Q. V., Todesco Pereira, P. H., Dinh, V. N., Nagle, A. J., and Leahy, P. G. (2024). ‘Levelised cost of transmission comparison for green hydrogen and ammonia in new-build offshore energy infrastructure: Pipelines, tankers, and HVDC’, *International Journal of Hydrogen Energy*, 62, pp. 684–698. Available at: <https://doi.org/10.1016/j.ijhydene.2024.03.066>.
 
 1. Dinh, Q. V., Dinh, V. N., Mosadeghi, H., Todesco Pereira, P. H., and Leahy, P. G. (2023). ‘A geospatial method for estimating the levelised cost of hydrogen production from offshore wind’, *International Journal of Hydrogen Energy*, 48(40), pp. 15000–15013. Available at: <https://doi.org/10.1016/j.ijhydene.2023.01.016>.
 
 #### Conference Papers
+
+1. Le, T. H., Nguyen, B., Pham, V.-L., Dinh, V. N., Lyons, P., and Leahy, P. (2024). 'An Integrated Hydrogen Electrolyser Plant for Mitigating Curtailment of a HVDC-Connected Offshore Wind Farm', in *2024 IEEE Sustainable Power and Energy Conference (iSPEC)*. Available at: <https://doi.org/10.1109/iSPEC59716.2024.10892470>.
 
 1. Dinh, Q. V., Dinh, V. N., and Leahy, P. (2023). ‘A method to map the levelised cost of hydrogen from offshore wind farms coupled to onshore electrolysers via HVDC’, in *IOP Conference Series: Earth and Environmental Science*. *6th International Conference on Clean Energy and Technology 2023 (CEAT 2023)*, Penang: IOP Publishing, p. 012005. Available at: <https://doi.org/10.1088/1755-1315/1281/1/012005>.
 
