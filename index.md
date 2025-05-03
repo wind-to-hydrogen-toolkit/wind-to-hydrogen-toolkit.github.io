@@ -16,11 +16,11 @@ See [Published Tools](#published-tools) below for the list of open source tools 
 ## Team
 
 - [**Paul Leahy**](https://www.linkedin.com/in/paul-leahy-4a233472/) - Principal Investigator - H-Wind, HyFloat1, and HyFloatComp
-- [**Dam Thanh Pham**](https://www.linkedin.com/in/thanh-dam-pham-925a6ba5/) - Researcher - HyFloat1
-- **Javier Sanz-Corretge** - Researcher - HyFloatComp
+- [**Thanh Dam Pham**](https://www.linkedin.com/in/thanh-dam-pham-925a6ba5/) - Researcher - HyFloat1
+- [**Javier Sanz-Corretge**](https://www.linkedin.com/in/javier-sanz-corretge-phd-5447b060/) - Researcher - HyFloatComp
 - [**Quang Vu Dinh**](https://www.linkedin.com/in/quang-vu-dinh-94097018b/) - Researcher - H-Wind
-- **Huong Le Thi** - PhD Student - H-Wind
-- **Leone Sostero** - Visiting MSc Student - H-Wind
+- [**Huong Le Thi**](https://www.linkedin.com/in/huong-le-7b296b71/) - PhD Student - H-Wind
+- [**Leone Sostero**](https://www.linkedin.com/in/leone-sostero/) - Visiting MSc Student - H-Wind
 
 ### Alumni
 
