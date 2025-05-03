@@ -89,25 +89,27 @@ The HyFloatComp project is supported by a research grant from the [Sustainable E
 
 #### Journal Articles
 
-1. Dinh, Q. V., Dinh, V. N., and Leahy, P. G. (2025). ‘A differential evolution model for optimising the size and cost of electrolysers coupled with offshore wind farms’, *International Journal of Hydrogen Energy*, 124, pp. 318-330, Available at: <https://doi.org/10.1016/j.ijhydene.2025.03.440>.
+1. Vu Dinh, Q., Dinh, V. N., and Leahy, P. G. (2025). ‘A differential evolution model for optimising the size and cost of electrolysers coupled with offshore wind farms’, *International Journal of Hydrogen Energy*, 124, pp. 318-330, Available at: <https://doi.org/10.1016/j.ijhydene.2025.03.440>.
 
-1. Dinh, Q. V., Todesco Pereira, P. H., Dinh, V. N., Nagle, A. J., and Leahy, P. G. (2024). ‘Levelised cost of transmission comparison for green hydrogen and ammonia in new-build offshore energy infrastructure: Pipelines, tankers, and HVDC’, *International Journal of Hydrogen Energy*, 62, pp. 684–698. Available at: <https://doi.org/10.1016/j.ijhydene.2024.03.066>.
+1. Vu Dinh, Q., Todesco Pereira, P. H., Dinh, V. N., Nagle, A. J., and Leahy, P. G. (2024). ‘Levelised cost of transmission comparison for green hydrogen and ammonia in new-build offshore energy infrastructure: Pipelines, tankers, and HVDC’, *International Journal of Hydrogen Energy*, 62, pp. 684–698. Available at: <https://doi.org/10.1016/j.ijhydene.2024.03.066>.
 
-1. Dinh, Q. V., Dinh, V. N., Mosadeghi, H., Todesco Pereira, P. H., and Leahy, P. G. (2023). ‘A geospatial method for estimating the levelised cost of hydrogen production from offshore wind’, *International Journal of Hydrogen Energy*, 48(40), pp. 15000–15013. Available at: <https://doi.org/10.1016/j.ijhydene.2023.01.016>.
+1. Vu Dinh, Q., Dinh, V. N., Mosadeghi, H., Todesco Pereira, P. H., and Leahy, P. G. (2023). ‘A geospatial method for estimating the levelised cost of hydrogen production from offshore wind’, *International Journal of Hydrogen Energy*, 48(40), pp. 15000–15013. Available at: <https://doi.org/10.1016/j.ijhydene.2023.01.016>.
 
 #### Conference Papers
 
-1. Le, T. H., Nguyen, B., Pham, V.-L., Dinh, V. N., Lyons, P., and Leahy, P. (2024). 'An Integrated Hydrogen Electrolyser Plant for Mitigating Curtailment of a HVDC-Connected Offshore Wind Farm', in *2024 IEEE Sustainable Power and Energy Conference (iSPEC)*. Available at: <https://doi.org/10.1109/iSPEC59716.2024.10892470>.
+1. Le Thi, H., Nguyen, B., Pham, V.-L., Dinh, V. N., Lyons, P., and Leahy, P. (2024). 'An Integrated Hydrogen Electrolyser Plant for Mitigating Curtailment of a HVDC-Connected Offshore Wind Farm', in *2024 IEEE Sustainable Power and Energy Conference (iSPEC)*. Available at: <https://doi.org/10.1109/iSPEC59716.2024.10892470>.
 
-1. Dinh, Q. V., Dinh, V. N., and Leahy, P. (2023). ‘A method to map the levelised cost of hydrogen from offshore wind farms coupled to onshore electrolysers via HVDC’, in *IOP Conference Series: Earth and Environmental Science*. *6th International Conference on Clean Energy and Technology 2023 (CEAT 2023)*, Penang: IOP Publishing, p. 012005. Available at: <https://doi.org/10.1088/1755-1315/1281/1/012005>.
+1. Vu Dinh, Q., Dinh, V. N., and Leahy, P. (2023). ‘A method to map the levelised cost of hydrogen from offshore wind farms coupled to onshore electrolysers via HVDC’, in *IOP Conference Series: Earth and Environmental Science*. *6th International Conference on Clean Energy and Technology 2023 (CEAT 2023)*, Penang: IOP Publishing, p. 012005. Available at: <https://doi.org/10.1088/1755-1315/1281/1/012005>.
 
 #### Preprints
 
 1. Streethran, N., Byrne, K., White, J., O’Neill, N., and Leahy, P. (2024). ‘Optimising production and long-term bulk storage of hydrogen from offshore wind in subsurface salt caverns’. Available at: <https://doi.org/10.2139/ssrn.4960296>.
 
-1. Dinh, Q. V., Dinh, V. N., and Leahy, P. G. (2023). ‘A Diffusion Model Approach to Forecast Multi-Sector Demand Growth for Green Hydrogen Generated from Offshore Wind Power’. Available at: <https://doi.org/10.2139/ssrn.4562388>.
+1. Vu Dinh, Q., Dinh, V. N., and Leahy, P. G. (2023). ‘A Diffusion Model Approach to Forecast Multi-Sector Demand Growth for Green Hydrogen Generated from Offshore Wind Power’. Available at: <https://doi.org/10.2139/ssrn.4562388>.
 
 #### Theses
+
+1. Vu Dinh, Q. (2024). *A geospatial economic analysis of hydrogen production from offshore wind using electrolysers*. PhD Thesis. University College Cork. Available at: <https://hdl.handle.net/10468/17048>.
 
 1. Brondolin, T. (2024). *Power to hydrogen to power: thermodynamic and economic assessment of an Electrolyser - Hydrogen turbine system*. Master's Thesis. University of Padua. Available at: <https://hdl.handle.net/20.500.12608/75524>.
 
@@ -117,17 +119,17 @@ The HyFloatComp project is supported by a research grant from the [Sustainable E
 
 #### Talks
 
-1. Le, H., Lyons, P., and Leahy, P. G. (2024). ‘Using a large-scale electrolyser plant to improve fault resilience and reduce the DC link capacitor size in a HVDC-connected offshore wind farm’. *ENVIRON 2024 - 34th Irish Environmental Researchers Colloquium*, Waterford.
+1. Le Thi, H., Lyons, P., and Leahy, P. G. (2024). ‘Using a large-scale electrolyser plant to improve fault resilience and reduce the DC link capacitor size in a HVDC-connected offshore wind farm’. *ENVIRON 2024 - 34th Irish Environmental Researchers Colloquium*, Waterford.
 
 #### Posters
 
-1. Dinh, Q. V., Leahy, P., Dinh, N., and Pereira, P. (2024). ‘New infrastructure options for green hydrogen and ammonia from offshore wind: comparison by levelised cost of bulk transmission’. *Wind Energy Ireland Annual Conference 2024*, Dublin.
+1. Vu Dinh, Q., Leahy, P., Dinh, N., and Pereira, P. (2024). ‘New infrastructure options for green hydrogen and ammonia from offshore wind: comparison by levelised cost of bulk transmission’. *Wind Energy Ireland Annual Conference 2024*, Dublin.
 
-1. Leahy, P., Dinh, N., Dinh, Q. V., Streethran, N., and Le, T. H. (2023). ‘Hydrogen from Offshore Wind: Production & Transmission Costs, Future Market Demand and Safety Considerations’. *Wind Energy Trade Show 2023*, Dublin.
+1. Leahy, P., Dinh, N., Vu Dinh, Q., Streethran, N., and Le Thi, H. (2023). ‘Hydrogen from Offshore Wind: Production & Transmission Costs, Future Market Demand and Safety Considerations’. *Wind Energy Trade Show 2023*, Dublin.
 
-1. Mosadeghi, H., Todesco Pereira, P. H., Dinh, Q. V., and Leahy, P. G. (2022). ‘Grid Connection Options for Hybrid Offshore Wind – Electrolysis Plants’. *Wind Energy Ireland Annual Conference 2022*, Dublin.
+1. Mosadeghi, H., Todesco Pereira, P. H., Vu Dinh, Q., and Leahy, P. G. (2022). ‘Grid Connection Options for Hybrid Offshore Wind – Electrolysis Plants’. *Wind Energy Ireland Annual Conference 2022*, Dublin.
 
-1. Todesco Pereira, P. H., Mosadeghi, H., Dinh, Q. V., and Leahy, P. G. (2022). ‘Subsystem Requirements for Hybrid Offshore Wind – Electrolyser Plants’. *Wind Energy Ireland Annual Conference 2022*, Dublin.
+1. Todesco Pereira, P. H., Mosadeghi, H., Vu Dinh, Q., and Leahy, P. G. (2022). ‘Subsystem Requirements for Hybrid Offshore Wind – Electrolyser Plants’. *Wind Energy Ireland Annual Conference 2022*, Dublin.
 
 ### HyFloat1
 
