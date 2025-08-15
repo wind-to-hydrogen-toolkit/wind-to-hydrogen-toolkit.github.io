@@ -20,7 +20,6 @@ See [Published Tools](#published-tools) below for the list of open source tools 
 - [**Javier Sanz-Corretge**](https://www.linkedin.com/in/javier-sanz-corretge-phd-5447b060/) - Researcher - HyFloatComp
 - [**Quang Vu Dinh**](https://www.linkedin.com/in/quang-vu-dinh-94097018b/) - Researcher - H-Wind
 - [**Huong Le Thi**](https://www.linkedin.com/in/huong-le-7b296b71/) - PhD Student - H-Wind
-- [**Leone Sostero**](https://www.linkedin.com/in/leone-sostero/) - Visiting MSc Student - H-Wind
 
 ### Alumni
 
@@ -28,6 +27,7 @@ See [Published Tools](#published-tools) below for the list of open source tools 
 - [**Pedro Pereira**](https://www.linkedin.com/in/pedrohtpereira/) - Researcher - H-Wind
 - [**Nithiya Streethran**](https://www.linkedin.com/in/nmstreethran/) - Researcher - H-Wind
 - [**Hadi Mosadeghi**](https://www.linkedin.com/in/hadi-mosadeghi/) - Researcher - H-Wind
+- [**Leone Sostero**](https://www.linkedin.com/in/leone-sostero/) - Visiting MSc Student - H-Wind
 - [**Tommaso Brondolin**](https://www.linkedin.com/in/tommaso-brondolin-545386247/) - Visiting MSc Student - H-Wind
 - [**Alessandro Albarello**](https://www.linkedin.com/in/alessandro-albarello-4519b6226/) - Visiting MSc Student - H-Wind
 - [**Lucia Magro**](https://www.linkedin.com/in/lucia-magro) - Visiting MSc Student - H-Wind
@@ -89,6 +89,8 @@ The HyFloatComp project is supported by a research grant from the [Sustainable E
 
 #### Journal Articles
 
+1. Vu Dinh, Q., Dinh, V. N., and Leahy, P. G. (2025). ‘A Diffusion Model Approach to Forecast Multi-Sector Demand Growth for Green Hydrogen Generated from Offshore Wind Power’, *Renewable and Sustainable Energy Reviews*,  223, 116038, Available at: <https://doi.org/10.1016/j.rser.2025.116038>.
+
 1. Vu Dinh, Q., Dinh, V. N., and Leahy, P. G. (2025). ‘A differential evolution model for optimising the size and cost of electrolysers coupled with offshore wind farms’, *International Journal of Hydrogen Energy*, 124, pp. 318-330, Available at: <https://doi.org/10.1016/j.ijhydene.2025.03.440>.
 
 1. Vu Dinh, Q., Todesco Pereira, P. H., Dinh, V. N., Nagle, A. J., and Leahy, P. G. (2024). ‘Levelised cost of transmission comparison for green hydrogen and ammonia in new-build offshore energy infrastructure: Pipelines, tankers, and HVDC’, *International Journal of Hydrogen Energy*, 62, pp. 684–698. Available at: <https://doi.org/10.1016/j.ijhydene.2024.03.066>.
@@ -105,9 +107,9 @@ The HyFloatComp project is supported by a research grant from the [Sustainable E
 
 1. Streethran, N., Byrne, K., White, J., O’Neill, N., and Leahy, P. (2024). ‘Optimising production and long-term bulk storage of hydrogen from offshore wind in subsurface salt caverns’. Available at: <https://doi.org/10.2139/ssrn.4960296>.
 
-1. Vu Dinh, Q., Dinh, V. N., and Leahy, P. G. (2023). ‘A Diffusion Model Approach to Forecast Multi-Sector Demand Growth for Green Hydrogen Generated from Offshore Wind Power’. Available at: <https://doi.org/10.2139/ssrn.4562388>.
-
 #### Theses
+
+1. Sostero, L. (2025). *Comparative Techno-Economic Assessment of Two Power-to-Hydrogen-to-X Pathways: A Case Study on the Synthesis and Use of Ammonia and Methanol*. Master's Thesis. University of Padua. Available at: <https://hdl.handle.net/20.500.12608/88936>.
 
 1. Vu Dinh, Q. (2024). *A geospatial economic analysis of hydrogen production from offshore wind using electrolysers*. PhD Thesis. University College Cork. Available at: <https://hdl.handle.net/10468/17048>.
 

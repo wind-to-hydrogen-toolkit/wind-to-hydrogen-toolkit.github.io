@@ -6,20 +6,11 @@
         {
             "label": "update",
             "type": "shell",
-            "command": "bundle update",
+            "command": "rm Gemfile.lock && gem install bundler && bundle update",
             "problemMatcher": [],
             "group": {
                 "kind": "build",
                 "isDefault": true
-            }
-        },
-        {
-            "label": "update-bundler",
-            "type": "shell",
-            "command": "gem install bundler",
-            "problemMatcher": [],
-            "group": {
-                "kind": "build"
             }
         },
         {
