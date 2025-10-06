@@ -24,7 +24,7 @@ See [Published Tools](#published-tools) below for the list of open source tools 
 
 ### Alumni
 
-- [**Nguyen Dinh**](https://www.linkedin.com/in/ndinheu/) - Principal Investigator - H-Wind
+- [**Dr. Nguyen Dinh**](https://www.linkedin.com/in/ndinheu/) - Principal Investigator - H-Wind
 - [**Pedro Pereira**](https://www.linkedin.com/in/pedrohtpereira/) - Researcher - H-Wind
 - [**Nithiya Streethran**](https://www.linkedin.com/in/nmstreethran/) - Researcher - H-Wind
 - [**Hadi Mosadeghi**](https://www.linkedin.com/in/hadi-mosadeghi/) - Researcher - H-Wind
