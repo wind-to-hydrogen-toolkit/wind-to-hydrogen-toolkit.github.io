@@ -15,11 +15,12 @@ See [Published Tools](#published-tools) below for the list of open source tools 
 
 ## Team
 
-- [**Paul Leahy**](https://www.linkedin.com/in/paul-leahy-4a233472/) - Principal Investigator - H-Wind, HyFloat1, and HyFloatComp
-- [**Thanh Dam Pham**](https://www.linkedin.com/in/thanh-dam-pham-925a6ba5/) - Researcher - HyFloat1
-- [**Javier Sanz-Corretge**](https://www.linkedin.com/in/javier-sanz-corretge-phd-5447b060/) - Researcher - HyFloatComp
-- [**Quang Vu Dinh**](https://www.linkedin.com/in/quang-vu-dinh-94097018b/) - Researcher - H-Wind
+- [**Dr. Paul Leahy**](https://www.linkedin.com/in/paul-leahy-4a233472/) - Principal Investigator - H-Wind, HyFloat1, and HyFloatComp
+- [**Dr. Thanh Dam Pham**](https://www.linkedin.com/in/thanh-dam-pham-925a6ba5/) - Researcher - HyFloat1
+- [**Dr. Javier Sanz-Corretge**](https://www.linkedin.com/in/javier-sanz-corretge-phd-5447b060/) - Researcher - HyFloatComp
+- [**Dr. Quang Vu Dinh**](https://www.linkedin.com/in/quang-vu-dinh-94097018b/) - Researcher - H-Wind
 - [**Huong Le Thi**](https://www.linkedin.com/in/huong-le-7b296b71/) - PhD Student - H-Wind
+- [**Leone Sostero**](https://www.linkedin.com/in/leone-sostero/) - Researcher - H-Wind
 
 ### Alumni
 
@@ -27,7 +28,6 @@ See [Published Tools](#published-tools) below for the list of open source tools 
 - [**Pedro Pereira**](https://www.linkedin.com/in/pedrohtpereira/) - Researcher - H-Wind
 - [**Nithiya Streethran**](https://www.linkedin.com/in/nmstreethran/) - Researcher - H-Wind
 - [**Hadi Mosadeghi**](https://www.linkedin.com/in/hadi-mosadeghi/) - Researcher - H-Wind
-- [**Leone Sostero**](https://www.linkedin.com/in/leone-sostero/) - Visiting MSc Student - H-Wind
 - [**Tommaso Brondolin**](https://www.linkedin.com/in/tommaso-brondolin-545386247/) - Visiting MSc Student - H-Wind
 - [**Alessandro Albarello**](https://www.linkedin.com/in/alessandro-albarello-4519b6226/) - Visiting MSc Student - H-Wind
 - [**Lucia Magro**](https://www.linkedin.com/in/lucia-magro) - Visiting MSc Student - H-Wind
