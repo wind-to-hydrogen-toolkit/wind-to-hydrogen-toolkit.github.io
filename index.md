@@ -34,7 +34,7 @@ See [Published Tools](#published-tools) below for the list of open source tools 
 
 ## Published Tools
 
-1. Thermodynamic and economic assessment of an electrolyser - hydrogen turbine system. <https://github.com/TBrondolin/Thermodynamic-and-economic-assessment-of-an-electrolyser---hydrogen-turbine-system>.
+1. Thermodynamic and economic assessment of an electrolyser - hydrogen turbine system. <https://github.com/wind-to-hydrogen-toolkit/electrolyser-hydrogen-turbine-system>.
 
 1. Optimising production and long-term bulk storage of hydrogen from offshore wind in subsurface salt caverns. <https://github.com/wind-to-hydrogen-toolkit/hydrogen-salt-storage>.
 
