@@ -89,6 +89,8 @@ The HyFloatComp project is supported by a research grant from the [Sustainable E
 
 #### Journal Articles
 
+1. Streethran, N., Byrne, K., White, J., O’Neill, N., and Leahy, P. (2026). ‘Optimising production and long-term bulk storage of hydrogen from offshore wind in submarine salt caverns’, *Journal of Energy Storage*, 153, 120988. Available at: <https://doi.org/10.1016/j.est.2026.120988>.
+
 1. Vu Dinh, Q., Dinh, V. N., and Leahy, P. G. (2025). ‘A Diffusion Model Approach to Forecast Multi-Sector Demand Growth for Green Hydrogen Generated from Offshore Wind Power’, *Renewable and Sustainable Energy Reviews*,  223, 116038, Available at: <https://doi.org/10.1016/j.rser.2025.116038>.
 
 1. Vu Dinh, Q., Dinh, V. N., and Leahy, P. G. (2025). ‘A differential evolution model for optimising the size and cost of electrolysers coupled with offshore wind farms’, *International Journal of Hydrogen Energy*, 124, pp. 318-330, Available at: <https://doi.org/10.1016/j.ijhydene.2025.03.440>.
@@ -102,10 +104,6 @@ The HyFloatComp project is supported by a research grant from the [Sustainable E
 1. Le Thi, H., Nguyen, B., Pham, V.-L., Dinh, V. N., Lyons, P., and Leahy, P. (2024). 'An Integrated Hydrogen Electrolyser Plant for Mitigating Curtailment of a HVDC-Connected Offshore Wind Farm', in *2024 IEEE Sustainable Power and Energy Conference (iSPEC)*. Available at: <https://doi.org/10.1109/iSPEC59716.2024.10892470>.
 
 1. Vu Dinh, Q., Dinh, V. N., and Leahy, P. (2023). ‘A method to map the levelised cost of hydrogen from offshore wind farms coupled to onshore electrolysers via HVDC’, in *IOP Conference Series: Earth and Environmental Science*. *6th International Conference on Clean Energy and Technology 2023 (CEAT 2023)*, Penang: IOP Publishing, p. 012005. Available at: <https://doi.org/10.1088/1755-1315/1281/1/012005>.
-
-#### Preprints
-
-1. Streethran, N., Byrne, K., White, J., O’Neill, N., and Leahy, P. (2024). ‘Optimising production and long-term bulk storage of hydrogen from offshore wind in subsurface salt caverns’. Available at: <https://doi.org/10.2139/ssrn.4960296>.
 
 #### Theses
 
